@@ -10,7 +10,7 @@
         A tool to analyze network traffic and identify potential security threats. It uses various
         algorithms to detect malicious patterns and suspicious activities on the network.
     </div>
-    [Learn More](./project1.md)
+    <a class="project-link" href="https://github.com/rasulguidry/Microsoft-Azure-Sentinel-SIEM-.git">Learn More</a>
 </div>
 
 <div class="project-container">
@@ -19,7 +19,7 @@
         This tool scans web applications and systems for potential vulnerabilities and provides
         detailed reports to help developers and administrators fix security issues.
     </div>
-    <a class="project-link" href="project2.html">Learn More</a>
+    <a class="project-link" href="https://github.com/rasulguidry/rasulguidry.git">Learn More</a>
 </div>
 
 <div class="project-container">
