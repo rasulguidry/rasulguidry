@@ -19,7 +19,7 @@
         This tool scans web applications and systems for potential vulnerabilities and provides
         detailed reports to help developers and administrators fix security issues.
     </div>
-    <a class="project-link" href="https://github.com/rasulguidry/rasulguidry.git">Learn More</a>
+    <a class="project-link" href="https://github.com/rasulguidry/Active-Directory.git">Learn More</a>
 </div>
 
 <div class="project-container">
