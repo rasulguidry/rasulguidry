@@ -28,7 +28,7 @@
         A tool to analyze network traffic and identify potential security threats. It uses various
         algorithms to detect malicious patterns and suspicious activities on the network.
     </div>
-    <a class="project-link" href="project1.html">Learn More</a>
+    <a class="project-link" href="https://github.com/rasulguidry/Vulnerability-Management-with-Nessus.git">Learn More</a>
 </div>
 
 </body>
