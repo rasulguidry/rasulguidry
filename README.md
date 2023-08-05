@@ -10,7 +10,7 @@
         A tool to analyze network traffic and identify potential security threats. It uses various
         algorithms to detect malicious patterns and suspicious activities on the network.
     </div>
-    <a class="project-link" href="project1.html">Learn More</a>
+    <a class="project-link" href="[project1.html](https://github.com/rasulguidry/Microsoft-Azure-Sentinel-SIEM-/tree/main)">Learn More</a>
 </div>
 
 <div class="project-container">
